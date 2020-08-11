@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HidupSehat</string>
+    <string name="himbauan_diri">Himbauan Hidup Sehat</string>
+    <string name="cuci_tangan">Cara Cuci Tangan</string>
+    <string name="pakai_masker">Cara Memakai Masker</string>
+    <string name="pola_hidup">Pola Hidup Sehat</string>
+    <string name="nama">Personal</string>
+    <string name="telepon">Contact Us</string>
+    <string name="himbauan">Jangan lupa terapin pola hidup sehat
+        selalu jaga jarak dan jaga kebersihan dimanapun!! </string>
+    <string name="cucitangan">Cara Mencuci tangan yang benar adalah :</string>
+    <string name="pakaimasker">Cara memakai masker yang benar adalah sebagai berikut : </string>
+    <string name="data_diri">datadiri</string>
+</resources>
