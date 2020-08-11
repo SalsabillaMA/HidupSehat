@@ -87,7 +87,7 @@ hasil :
    
    terdapat checkbox agar kita bisa memilih mana yang pola hidup sehat dan mana yang bukan seperti ini :
    
-     ![Alt Text](t5.png)
+   ![Alt Text](t5.png)
      
 Isi button Person
 
