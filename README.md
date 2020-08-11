@@ -25,7 +25,7 @@ B. MainActivity.java
 
 Berisi kumpulan baris yang tertera berfungsi untuk memperkenalkan button yang sudah ditambahkan di layout activity_main.xml dan beberapa baris untuk menambahkan event onClick pada btn dengan java
 
-![Alt Text](5.JPG)
+![Alt Text](52.JPG)
 
 ![Alt Text](6.JPG)
 
